@@ -1,9 +1,8 @@
 # Intro
 - 👋 Hi, I’m [Ariel Rosete](https://github.com/a001-ari/a001-ari)
-- 👀 I’m interested in data science, visualization, and creative solutions 
+- 👀 I’m a Detail-oriented and analytical Data/Business Analyst with experience in project coordination, database management, and data visualization.
 - 🤜🤛 I’m looking to collaborate on data visualizations, database cleanup, and any business projects you might have
 - 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/arielrosete/)
-- 😄 Pronouns: He/They
 - ⚡ Fun fact: I am a Freelance 📷Photographer and 🎥🎬Filmmaker, specializing in Camera solutions and G&E
 - 😆I will add more as it comes available
 
@@ -20,6 +19,6 @@
 🛠️ Tools: Google Gemini, Shipstation, Calculator
 
 ## 👨🏻‍💻Programming Experience
-- Languages: 🐍Python, C++, and ☕️Java
+- Languages: 🐍Python (Pandas, Jupyter, NumPy) and ☕️Java
 - Databases: Microsoft SQL Server
-- IDEs and Visualization Tools: 🕷️Spyder, MS Visual Studio, Tableau, and 🧮MS Excel (Pivot Table, VLOOKUP, Conditional Formatting)
+- IDEs and Visualization Tools: 🕷️Spyder, MS Visual Studio, Tableau, and MS Excel
