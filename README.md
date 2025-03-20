@@ -8,13 +8,13 @@
 - 😆I will add more as it comes available
 
 ## 💡Objective
-- Obtain a position in Data or Business Analyst or Specialists roles
+- Obtain a position as a Data/Business Analyst, Assistant Project Manager/Coordinator, Database Specialist, or as an Administrative Assistant
 - Continue education and learning programming, data analysis, and problem-solving
 
 ## 💼Professional Experience
 - 🧾Leadership Roles: Coordinator and Shift Lead (3 Years) 
 🛠️ Tools: Asana, Google Suite, MS Office Suite, Slack
-- 👨🏻‍💻Project Support Coordinator - Appen (6 Months) 
+- 👨🏻‍💻Project Support Coordinator - Appen (4 Months) 
 🛠️ Tools: Spyder, Asana, Jira, MS SharePoint, 📊Excel/Sheets, Python 
 - 📸Store Manager - Camera Sales (8 Months)
 🛠️ Tools: Google Gemini, Shipstation, Calculator
@@ -22,4 +22,4 @@
 ## 👨🏻‍💻Programming Experience
 - Languages: 🐍Python, C++, and ☕️Java
 - Databases: Microsoft SQL Server
-- IDEs and Visualization Tools: 🕷️Spyder, MS Visual Studio, Tableau, and 🧮Excel (Pivot Table, VLOOKUP, Conditional Formatting)
+- IDEs and Visualization Tools: 🕷️Spyder, MS Visual Studio, Tableau, and 🧮MS Excel (Pivot Table, VLOOKUP, Conditional Formatting)
