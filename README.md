@@ -5,14 +5,13 @@
 - 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/arielrosete/)
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I am a Freelance 📷Photographer and 🎥🎬Filmmaker, specializing in Camera solutions and G&E
+- 😆I will add more as it comes available
 
-- I will add more as it comes available
-
-# Objective
+## 💡Objective
 - Obtain a position in Data or Business Analyst or Specialists roles
 - Continue education and learning programming, data analysis, and problem-solving
 
-# 💼Professional Experience
+## 💼Professional Experience
 - 🧾Leadership Roles: Coordinator and Shift Lead (3 Years) 
 🛠️ Tools: Asana, Google Suite, MS Office Suite, Slack
 - 👨🏻‍💻Project Support Coordinator - Appen (6 Months) 
@@ -20,14 +19,7 @@
 - 📸Store Manager - Camera Sales (8 Months)
 🛠️ Tools: Google Gemini, Shipstation, Calculator
 
-# Programming Experience
+## 👨🏻‍💻Programming Experience
 - Languages: 🐍Python, C++, and ☕️Java
 - Databases: Microsoft SQL Server
 - IDEs and Visualization Tools: 🕷️Spyder, MS Visual Studio, Tableau, and 🧮Excel (Pivot Table, VLOOKUP, Conditional Formatting)
-
-<!---
-a001-ari/a001-ari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-Eager business professional with 3+ years of experience in leadership and business development roles. I am proficient in Project Management and business operations tools like SQL, Excel, Tableau, and specific software like Asana and Jira.
---->
