@@ -1,7 +1,7 @@
 # Intro
 - 👋 Hi, I’m [Ariel Rosete](https://github.com/a001-ari/a001-ari)
 - 👀 I’m interested in data science, visualization, and creative solutions 
-- 🤜🤛 I’m looking to collaborate on data vizualizations, database cleanup, and any business projects you might have
+- 🤜🤛 I’m looking to collaborate on data visualizations, database cleanup, and any business projects you might have
 - 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/arielrosete/)
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I am a Freelance 📷Photographer and 🎥🎬Filmmaker, specializing in Camera solutions and G&E
